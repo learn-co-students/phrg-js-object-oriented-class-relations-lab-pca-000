@@ -29,3 +29,4 @@ Construct the following classes:
   + `new Trip()` - initialized with an instance of driver and an instance of passenger; returns a JavaScript that has attributes `id`, `driverId`, and `passengerId`
   + `driver()` - returns the driver associated with the trip
   + `passenger()` - returns the passenger associated with the trip
+<p data-visibility='hidden'>PHRG Class Relations Lab</p>
